@@ -1,0 +1,2 @@
+https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+https://paperswithcode.com/dataset/polyvore
